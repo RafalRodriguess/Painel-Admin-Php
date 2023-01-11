@@ -1,0 +1,4 @@
+# Painel-Admin-Php
+Painel admin integrado com site de noticias
+
+PAINEL DESENVOLVIDO EM PHP PARA AFINS DE ALIMENTAR UM SITE COM CADASTRO DE NOTICIAS E INFORMAÇÕES
